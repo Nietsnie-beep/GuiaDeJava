@@ -1,0 +1,8 @@
+# Default ignored files
+/shelf/
+/workspace.xml
+# Datasource local storage ignored files
+/../../../../../../../../:\Users\alber\Downloads\curso-de-java-se-poo-13.ClasesAbstractas\curso-de-java-se-poo-13.ClasesAbstractas\MyMedicalAppointments\.idea/dataSources/
+/dataSources.local.xml
+# Editor-based HTTP Client requests
+/httpRequests/
