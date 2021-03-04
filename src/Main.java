@@ -2,10 +2,24 @@ import model.*;
 
 import java.util.Date;
 
+import ui.UIMenu.*;
+
+import static ui.UIMenu.showMenu;
+
 public class Main {
     public static void main(String[] args) {
 
-        //showMenu();
+        char array[] = {'a','b','c'};
+
+        System.out.println(array[0]);
+
+        showMenu();
+
+    }
+
+
+}
+        /*
 
         Doctor myDoctor = new Doctor("Anahí Salgado", "anahi@anahi.com");
         myDoctor.addAvailableAppointment(new Date(), "4pm");
@@ -51,9 +65,9 @@ public class Main {
         System.out.println();
         Patient patient = new Patient("Alejandra", "alejandra@mail.com");
         System.out.println(patient);
-*/
-    }
+
+    }*/
 
 
 
-}
+
